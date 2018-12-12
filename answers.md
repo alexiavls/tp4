@@ -1,8 +1,8 @@
 # Answers
 
-Nom : 
-Prénom : 
-NB : 
+Nom : Valais
+Prénom : Alexia
+NB : 1
 
 # 1.
 A quoi sert l'A/B testing ?
